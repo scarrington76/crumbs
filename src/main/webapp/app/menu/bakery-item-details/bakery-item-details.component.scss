@@ -1,0 +1,14 @@
+/* bakery-item-details.component.scss */
+
+.image-box {
+    width: 100%;
+    border: 1px groove rgba(98, 69, 69, 0.8);
+
+    img {
+        max-width: 60%;
+        max-height: 60%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
